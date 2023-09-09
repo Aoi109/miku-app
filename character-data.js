@@ -27,6 +27,10 @@ var characterSet = [
 				'image': 'Mmain.png'
 			},
 			{
+				'serif': 'ピアス？…あぁ、邪魔だから付けンの止めた。',
+				'image': 'Mmain.png'
+			},
+			{
 				'serif': 'ど～だよ、コレ。パブロ・ピカソの『道化師と少年』、なんつって。ハハッ！！',
 				'image': 'Msub1.png'
 			},
